@@ -31,7 +31,7 @@ const Supplier = () => {
    >
    
    
-   <span>Supplier Details </span>
+   <span className="hover1">Supplier Details </span>
    </Link>
 
 

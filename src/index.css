@@ -1420,3 +1420,7 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 text-decoration: none;
 }
+.hover1{
+    color:#aa19ac ;
+  font-size: 1.2rem;
+}
